@@ -16,7 +16,7 @@
                 <ion-row class="ion-align-items-center">
                     <ion-col size="12" class="ion-text-center">
                         <h4 class="info-text" v-if="started">
-                            FOTO WIRD AN KONTAKTE GESENDET
+                            FOTO WIRD AN KONTAKTE GESENDET:
                         </h4>
                         <ion-button
                             v-if="!started"
@@ -70,7 +70,7 @@ export default defineComponent({
     data() {
         const countdownTime = new Date();
         countdownTime.setMinutes(2);
-        countdownTime.setSeconds(0);
+        countdownTime.setSeconds(15);
         return {
             countdownText: "",
             started: false,

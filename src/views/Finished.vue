@@ -5,7 +5,9 @@
             <ion-row>
                 <ion-col size="12" class="ion-text-center">
                     <h4 class="info-text">
-                        <strong>DATEN WURDEN GETEILT</strong>
+                        <strong
+                            >FOTO INKLUSIVE KOORDINATEN WURDEN GETEILT</strong
+                        >
                     </h4>
                 </ion-col>
             </ion-row>
