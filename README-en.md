@@ -4,7 +4,7 @@
 
 # Final Countdown
 
-The origins of the App come from the Show [_How to Sell Drugs Online (Fast)_](<https://en.wikipedia.org/wiki/How_to_Sell_Drugs_Online_(Fast)>) on [Netflix](https://en.wikipedia.org/wiki/Netflix).
+This App is based on the Show [_How to Sell Drugs Online (Fast)_](<https://en.wikipedia.org/wiki/How_to_Sell_Drugs_Online_(Fast)>) on [Netflix](https://en.wikipedia.org/wiki/Netflix).
 
 ## What?
 

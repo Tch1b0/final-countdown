@@ -4,7 +4,7 @@ German | [English](README-en.md)
 
 # Final Countdown
 
-Diese App kommt aus der Serie [_How to Sell Drugs Online (Fast)_](<https://de.wikipedia.org/wiki/How_to_Sell_Drugs_Online_(Fast)>) auf [Netflix](https://de.wikipedia.org/wiki/Netflix).
+Diese App ist einer fiktionalen App der Serie [_How to Sell Drugs Online (Fast)_](<https://de.wikipedia.org/wiki/How_to_Sell_Drugs_Online_(Fast)>) auf [Netflix](https://de.wikipedia.org/wiki/Netflix) nachempfunden.
 
 ## Was?
 
