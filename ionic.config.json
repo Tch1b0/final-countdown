@@ -1,0 +1,8 @@
+{
+  "name": "Final Countdown",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1a315da3"
+}

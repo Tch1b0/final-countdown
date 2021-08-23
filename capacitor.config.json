@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Final Countdown",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
