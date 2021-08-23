@@ -75,7 +75,7 @@ export default defineComponent({
             countdownText: "",
             started: false,
             countdownTime,
-            BackColor: "light",
+            BackColor: "dark",
             intervalId: 0,
             coordinates: [50.681926, 7.104203],
         };
@@ -99,7 +99,7 @@ export default defineComponent({
             if (this.countdownTime.getSeconds() % 2 === 0) {
                 this.BackColor = "danger";
             } else {
-                this.BackColor = "light";
+                this.BackColor = "dark";
             }
 
             if (seconds % 15 == 0) {
